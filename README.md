@@ -4,10 +4,7 @@ MySQLStorageDatabaseClient is a simple console UI providing data access and mana
 
 Main goal is to provide convenient access to remote database.
 
-Implemented functionality:
-  -get data
-  -add data
-  -edit data
-  -delete data
-  
+Implemented standard data functionality( get, add, edit, delete).
+
 Developed with C++. MySQL server version: 8.0.
+
